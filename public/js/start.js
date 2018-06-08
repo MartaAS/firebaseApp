@@ -1,4 +1,5 @@
 window.onload = start;
+
 var referenciaPersona;
 
 function start() {
